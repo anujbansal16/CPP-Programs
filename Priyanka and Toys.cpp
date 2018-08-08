@@ -15,7 +15,7 @@ int main(){
             count++;
             wt=a[i]+4;}
     }          
- cout<<"Test";                       
+ cout<<"Test1";                       
 cout<<count;                        
 return 0;    
 }
