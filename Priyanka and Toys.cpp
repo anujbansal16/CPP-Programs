@@ -14,9 +14,7 @@ int main(){
         if(a[i]>wt){
             count++;
             wt=a[i]+4;}
-    }
-    cout<<count;
-cout<<count;            
+    }          
 cout<<count;                        
 return 0;    
 }
