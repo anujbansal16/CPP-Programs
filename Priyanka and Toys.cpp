@@ -14,12 +14,7 @@ int main(){
         if(a[i]>wt){
             count++;
             wt=a[i]+4;}
-<<<<<<< HEAD
     }                                  
-=======
-    }          
- cout<<"Test1";                       
->>>>>>> 6a61751a868e21e21887c238015e15986383016e
 cout<<count;                        
 return 0;    
 }
