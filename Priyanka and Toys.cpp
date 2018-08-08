@@ -16,6 +16,7 @@ int main(){
             wt=a[i]+4;}
     }          
 cout<<count;                        
+cout<<count;                        
 return 0;    
 }
 
